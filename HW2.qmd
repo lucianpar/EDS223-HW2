@@ -1,13 +1,7 @@
 ---
-title: "Homework Assignment #2"
-subtitle: "Exploring patterns of environmental justice"
-author: "UPDATE WITH YOUR NAME"
-date: last-modified
+title: "HW2"
+format: html
+editor: visual
 ---
 
-## Part 1: Legacy of redlining in current environmental (in)justice
-
-
-## Part 2: Legacy of redlining in biodiversity observations
-
-
+## #test
